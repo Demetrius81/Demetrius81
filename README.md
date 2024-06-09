@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, my name is Dmitry Ryzhov
+### I am a FullStack developer.
+Hi, my name is Dmitry, and I am a FullStack developer✨. (My main programming languages ​​are TypeScript, C#). I am interested in both front-end🖥 and back-end💽 development. I like to learn new things. Experience with TypeScript, HTML, CSS, Scss, Vue.js, React, ASP.NET, Spring, PostgreSQL, MySQL, Delphi, Lisp. Some experience in developing microservices🔬. In addition, I also have some experience with UI component libraries/frameworks. Well, and experience as a design engineer📐 and mechanical engineer🛠 (AutoCAD, SOLIDWORKS). In my free time, I study and develop myself.
+
 
 <!--
 **Demetrius81/Demetrius81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
